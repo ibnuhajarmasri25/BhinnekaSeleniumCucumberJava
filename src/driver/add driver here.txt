@@ -1,6 +1,6 @@
 You can added chrome driver or firefox driver on package driver
 
-and setting on midtrsndTelkomSeleniumCucumber/conf.porperties
+and setting SeleniumCucumber/conf.porperties
 browser = chrome/firefox
 
 for the first you should add chromedriver.exe/geckodriver.exe
